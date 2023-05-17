@@ -1,5 +1,5 @@
 # space-theme-cv
-By Hannah Mendoza (@hannskie)
+By Hannah Mendoza 
 
 Description:
 A simple space-themed (or galaxy-themed) CV using purely HTML and CSS. 
